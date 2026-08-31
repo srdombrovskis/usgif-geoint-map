@@ -1,0 +1,343 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Delta State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7295,
+          33.7246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fayetteville State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.899,
+          35.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "George Mason University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3064,
+          38.82834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harris-Stowe State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.232,
+          38.6285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Indiana University of Pennsylvania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.156,
+          40.611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "James Madison University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.869,
+          38.436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johns Hopkins University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6205,
+          39.3299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mississippi State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7944,
+          33.4552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Carolina Central University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.899,
+          35.975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Norwich University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.656,
+          44.129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "NOVA IMS (Universidade Nova de Lisboa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1598,
+          38.7336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pennsylvania State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8599,
+          40.7982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saint Louis University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.234,
+          38.636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Dakota State University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.784,
+          44.319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United States Air Force Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8613,
+          38.9983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United States Coast Guard Academy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.098,
+          41.372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "United States Military Academy (West Point)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.956,
+          41.3915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Illinois Urbana-Champaign"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.227,
+          40.102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Maryland, College Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9426,
+          38.9869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Missouri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3277,
+          38.9404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of North Carolina Wilmington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.872,
+          34.226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of North Georgia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.984,
+          34.528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of South Carolina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.027,
+          33.995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Southern California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2851,
+          34.0224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "University of Texas at Dallas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7501,
+          32.9857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Virginia Tech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4234,
+          37.2284
+        ]
+      }
+    }
+  ]
+}
